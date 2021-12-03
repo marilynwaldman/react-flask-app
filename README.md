@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+This tutorial:
+
+https://blog.miguelgrinberg.com/post/how-to-dockerize-a-react-flask-project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
